@@ -1,0 +1,13 @@
+/*
+Theme Name: lavan | Shared by WPTry.org
+Description: Used to style the TinyMCE editor.
+*/
+
+/**
+ * 1.0 - Body
+ */
+
+#customize-control-header_textcolor
+{
+	display: none!important;
+}
